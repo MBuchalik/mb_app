@@ -1,4 +1,4 @@
-This repository is the right place for questions, bugs and suggestions regarding mba.
+This repository is the right place for questions, bugs and suggestions regarding mb_app.
 
 ### Current version: 1.0.0 
 
