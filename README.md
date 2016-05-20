@@ -19,7 +19,7 @@ Always use the *search* before creating a new issue. Maybe your question has alr
 ## Labels
 
 If possible, add one of the following labels:
-- [suggestion](../../issues?q=label:suggestion)
+- [enhancement](../../issues?q=label:enhancement)
 - [question](../../issues?q=label:question)
 - [bug](../../issues?q=label:bug)
 
