@@ -1,7 +1,7 @@
 ## 1.0.1 (2016-09-06)
 
 #### Changed
-- Use another push plugin without traffic sharing ([#9](https://github.com/MBuchalik/mb_app/issues/9))
+- Use another ads plugin without traffic sharing ([#9](https://github.com/MBuchalik/mb_app/issues/9))
 
 #### Info
 You should only update if your are using ads. No other changes were made.
