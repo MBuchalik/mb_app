@@ -1,6 +1,6 @@
 This repository is the right place for questions, bugs and suggestions regarding mb_app.
 
-### Current version: 1.0.1 
+### Current version: 1.1.0 
 
 - [roadmap](https://github.com/MBuchalik/mb_app/milestones?state=open)
 

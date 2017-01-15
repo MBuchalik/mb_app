@@ -1,3 +1,27 @@
+## 1.1.0 (2017-01-15)
+
+#### Added
+- Support for iOS :smiley: ([#14](https://github.com/MBuchalik/mb_app/issues/14))
+- Image preview when writing an email ([#12](https://github.com/MBuchalik/mb_app/issues/12))
+- Unread badge on the "refresh" and "folder" icon ([#11](https://github.com/MBuchalik/mb_app/issues/11))
+- Forwarding of mail text ([#10](https://github.com/MBuchalik/mb_app/issues/10))
+- Unread badge on many Android phones (as well as on iOS) ([#8](https://github.com/MBuchalik/mb_app/issues/8))
+- Share files to Android ([#7](https://github.com/MBuchalik/mb_app/issues/7))
+- Note about energy saving on Huawei phones ([#6](https://github.com/MBuchalik/mb_app/issues/6))
+- (Better) error handling when starting the application ([#2](https://github.com/MBuchalik/mb_app/issues/2))
+- Debugging tool for push notifications in the ACP
+
+#### Changed
+- Display the recipient's name in the outbox ([#5](https://github.com/MBuchalik/mb_app/issues/5))
+- Sort the addressbook content correctly ([#4](https://github.com/MBuchalik/mb_app/issues/4))
+- The whole layer system has been rewritten to support iOS
+- The app waits for all modules to be loaded until it displays the login page (or logs the user in automatically)
+
+#### Info
+A lot of improvements and changes were made to support Android and iOS on the same code base. Furthermore, a cool new tool was introduced to simplify app creation. Also, a list of changed files is now included in the download archive.
+
+There were so many small improvements that it is hard to list all of them here. This release really is a great improvement to the application. 
+
 ## 1.0.1 (2016-09-06)
 
 #### Changed
