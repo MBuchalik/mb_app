@@ -1,3 +1,18 @@
+## 1.2.0 (2017-04-25)
+
+#### Added
+- Restore emails when deleting them using a "single action" (the mass action isn't supported at the moment) ([#19](https://github.com/MBuchalik/mb_app/issues/19))
+- Pinch-to-zoom html mails ([#18](https://github.com/MBuchalik/mb_app/issues/18))
+- Allow users to empty the trash ([#17](https://github.com/MBuchalik/mb_app/issues/17))
+
+#### Fixed
+- A hidden unread badge in an email folder used to show an outline shadow on lighter main colors ([#16](https://github.com/MBuchalik/mb_app/issues/16))
+- On some Android 7 devices, the app crashed right after starting it due to a problem with the splash screen image.
+- On some Android devices, there were problems with the network connectivity after running the app in the background for some time.
+
+#### Info
+Apps for Android can't be built using version 1.1.0 (or lower) anymore. They simply won't start since older versions of the push plugin don't seem to be compatible with the latest Android SDK. Apps that were built before (and worked) aren't affected.
+
 ## 1.1.0 (2017-01-15)
 
 #### Added
@@ -20,7 +35,7 @@
 #### Info
 A lot of improvements and changes were made to support Android and iOS on the same code base. Furthermore, a cool new tool was introduced to simplify app creation. Also, a list of changed files is now included in the download archive.
 
-There were so many small improvements that it is hard to list all of them here. This release really is a great improvement to the application. 
+There were so many small improvements that it is hard to list all of them here. This release really is a great improvement to the application.
 
 ## 1.0.1 (2016-09-06)
 
