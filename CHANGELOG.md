@@ -1,3 +1,16 @@
+## 1.3.0 (2017-09-07)
+
+#### Added
+- Allow users to deactivate the delete warning ([#25](https://github.com/MBuchalik/mb_app/issues/25))
+- Swipe-to-delete :smiley: ([#23](https://github.com/MBuchalik/mb_app/issues/23))
+- Send read receipt when reading an email ([#20](https://github.com/MBuchalik/mb_app/issues/20))
+- Refactored settings page
+
+##### Info
+- This version includes a new "license" page. From now on, make sure you are always using the latest license page shipped with the version you are using.
+- JavaScript is now written in strict mode.
+- A new icon set is used (it should behave like the old one but include more icons).
+
 ## 1.2.0 (2017-04-25)
 
 #### Added
