@@ -1,3 +1,20 @@
+## 1.4.0 (2018-05-26)
+
+#### Added
+- mb_app now supports iPhone X and iOS 11.
+- Request a read receipt when writing an email. ([#21](https://github.com/MBuchalik/mb_app/issues/21))
+- Show a warning when leaving the email compose view. ([#30](https://github.com/MBuchalik/mb_app/issues/30))
+- Email compose: Make the list of recipients more user-friendly. ([#31](https://github.com/MBuchalik/mb_app/issues/31))
+- Allow users to add their signature. ([#32](https://github.com/MBuchalik/mb_app/issues/32))
+
+#### Fixed
+- Push notifications: No sound played on Android ([#26](https://github.com/MBuchalik/mb_app/issues/26))
+
+#### Info
+AdMob for iOS currently isn't working. It has been disabled in this version.
+
+Please note that the project structure has been changed. Also, two info files were added to the download archive. You should carefully read them before creating new versions of your app!
+
 ## 1.3.0 (2017-09-07)
 
 #### Added
@@ -6,7 +23,7 @@
 - Send read receipt when reading an email ([#20](https://github.com/MBuchalik/mb_app/issues/20))
 - Refactored settings page
 
-##### Info
+#### Info
 - This version includes a new "license" page. From now on, make sure you are always using the latest license page shipped with the version you are using.
 - JavaScript is now written in strict mode.
 - A new icon set is used (it should behave like the old one but include more icons).
