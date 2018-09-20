@@ -1,3 +1,17 @@
+## 1.5.0 (2018-09-20)
+
+#### Changed
+- b1gmail 7.4 is now fully supported :smiley: Please note this plugin is **not compatible with b1gmail 7.3** anymore.
+- On iOS, we are now using the http2 push gateway. Please check whether your server supports this method. This new method also allows overriding of old push notifications.
+- On Android, we are now using FCM instead of GCM.
+- On Android, other aspect ratios are now supported. ([#34](https://github.com/MBuchalik/mb_app/issues/34))
+
+#### Fixed
+- Crashes on iOS when saving an image to the camera roll. ([#33](https://github.com/MBuchalik/mb_app/issues/33))
+
+#### Info
+Please remember only to install this update when using b1gmail 7.4.
+
 ## 1.4.0 (2018-05-26)
 
 #### Added
