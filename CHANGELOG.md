@@ -1,3 +1,20 @@
+## 1.6.0 (2019-09-02)
+
+#### Added
+
+- It is now possible to set "cc" and "bcc" recipients when writing an email. ([#22](https://github.com/MBuchalik/mb_app/issues/22))
+- When forwarding an email, the attachments are now also included. ([#38](https://github.com/MBuchalik/mb_app/issues/38))
+
+#### Changed
+
+- The app is now compatible with the 64 bit PlayStore requirement.
+
+#### Info
+
+On Android, the minimum OS version is now 5.0 (Lollipop, SDK version 21).
+
+The size of the .apk file decreases from ~28 MB to ~5MB. The size of the installed Android app decreases from ~80 MB to ~12 MB.
+
 ## 1.5.0 (2018-09-20)
 
 #### Changed
