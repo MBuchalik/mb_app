@@ -1,3 +1,13 @@
+## 1.6.1 (2019-09-24)
+
+#### Fixed
+
+- Due to a bug, it was not possible to close the app on Android when clicking on the confirm button of the "close app" dialog.
+
+#### Changed
+
+- The app now fulfills the new App Store requirements.
+
 ## 1.6.0 (2019-09-02)
 
 #### Added
