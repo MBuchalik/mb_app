@@ -1,3 +1,23 @@
+## 2.0.0 (2020-09-26)
+
+#### Added
+- It is now possible to edit the address book (users can add new contacts and edit existing ones).
+- Thanks to Ionic, the UI design now adapts to look more like native iOS or Android.
+- Email folders now update automatically when a new email arrives.
+- Much better error handling (e.g. by showing a "try again" button in various places when the connection to the server fails).
+- When writing an email, you can now open the address book to select recipients.
+
+#### Changed
+- The email folder list is now properly indented (previously, all folders were just shown in a plain list).
+- The email multi selection menu has been completely revamped.
+- The file downloads page has been completely revamped.
+
+#### Info
+
+This is a complete rewrite of the app with much more modern tools/libraries! The app is now built using Angular, Ionic and a local Cordova installation. So, in the end, we build the app using Android Studio (or Xcode) and are not depending on any 3rd party cloud service anymore.
+
+The server plugin has also been changed in many places to be more type safe.
+
 ## 1.6.1 (2019-09-24)
 
 #### Fixed
