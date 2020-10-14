@@ -1,6 +1,6 @@
 This repository is the right place for questions, bugs and suggestions regarding mb_app.
 
-### Current version: 2.0.0
+### Current version: 2.0.1
 
 [changelog](CHANGELOG.md)
 

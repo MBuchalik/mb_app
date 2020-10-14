@@ -1,3 +1,9 @@
+## 2.0.1 (2020-10-13)
+
+#### Fixed
+- Fixed a problem that caused the app on iOS to crash when trying to create a video as email attachment.
+- Changed the phrases displayed when requesting permissions on iOS, since they could lead to App Store rejections.
+
 ## 2.0.0 (2020-09-26)
 
 #### Added
