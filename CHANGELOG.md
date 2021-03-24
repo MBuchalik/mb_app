@@ -1,3 +1,12 @@
+## 2.1.0 (2021-03-24)
+
+#### Added
+- There is now a way to build an in-app signup form. Please note that this requires manual setup on the server.
+
+#### Changed
+- On Android, the app now specifies Target SDK Version 30. It is still built using SDK Version 29.
+- The iOS app is now built using XCode 12.
+
 ## 2.0.1 (2020-10-13)
 
 #### Fixed
