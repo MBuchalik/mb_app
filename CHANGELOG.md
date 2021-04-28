@@ -1,3 +1,8 @@
+## 2.1.1 (2021-04-28)
+
+#### Fixed
+- There were a few reports from users getting the message "No internet connection", even though they had a proper connection. It was not possible to reproduce the issue. In this release, we use a slightly different mechanism which could (!) fix the issue.
+
 ## 2.1.0 (2021-03-24)
 
 #### Added
