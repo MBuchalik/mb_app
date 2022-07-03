@@ -1,21 +1,6 @@
-This repository is the right place for questions, bugs and suggestions regarding mb_app.
+> Important: Version 2.2.0 is most likely the last version of mb_app. Support will end on February 01, 2023.
 
-### Current version: 2.1.1
-
-[changelog](CHANGELOG.md)
-
-# Guidelines
-**Please ahere to the following guildelines when creating a new issue.**
-## Use the search
-
-Always use the *search* before creating a new issue. Maybe your question has already been asked by another member?
-
-## Labels
-
-If possible, add one of the following labels:
-- [enhancement](https://github.com/MBuchalik/mb_app/issues?q=label:enhancement)
-- [question](https://github.com/MBuchalik/mb_app/issues?q=label:question)
-- [bug](https://github.com/MBuchalik/mb_app/issues?q=label:bug)
+For an overview of the changes made to individual versions of mb_app, see the [Changelog](CHANGELOG.md).
 
 ## Important
 If you found a serious bug that might affect the users' security, please don't post it here. Send me a mail instead!

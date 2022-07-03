@@ -1,3 +1,17 @@
+## 2.2.0 (2022-07-03)
+
+#### Added
+- It is now possible for users to delete their accounts using the app.
+
+#### Fixed
+- Fixed an issue that disabled scrolling on iOS when the keyboard was open and ads were enabled.
+
+#### Changed
+
+- The Android app is now built using SDK version 30.
+- The iOS app is now built using Xcode 13.
+
+
 ## 2.1.1 (2021-04-28)
 
 #### Fixed
