@@ -1,3 +1,8 @@
+## 2.2.1 (2022-08-18)
+
+#### Fixed
+- Changed the way the file/folder naming dialogs are structured in the Webdisk. This prevents issues where the keyboard would overlap the dialogs on iOS, making the dialogs barely usable.
+
 ## 2.2.0 (2022-07-03)
 
 #### Added
