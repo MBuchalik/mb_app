@@ -1,3 +1,8 @@
+## 2.3.0 (2022-08-24)
+
+#### Added
+- After deleting an account, a confirmation page is now shown that includes details like the time of deletion and the user email address.
+
 ## 2.2.1 (2022-08-18)
 
 #### Fixed
