@@ -1,3 +1,9 @@
+## 2.4.0 (2022-10-13)
+
+#### Changed
+- The Android app is now built using SDK version 31 (and also targets SDK version 31).
+- Splashscreen images on Android now use the new format where the foreground and background are separated.
+
 ## 2.3.0 (2022-08-24)
 
 #### Added
